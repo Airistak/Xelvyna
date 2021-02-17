@@ -1,2 +1,1 @@
-# Xelvyna
-okokl
+# Ini Hanya Script Sajah
